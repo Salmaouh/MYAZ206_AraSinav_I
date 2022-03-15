@@ -5,9 +5,9 @@ namespace Tests
 {
     // Temel amacýmýz verilen testlerin yeþile dönmesini saðlamaktýr.
     // Her bir test için öncelikle aldýðýnýz hatayý cevap kaðýdýna yazýnýz.
-    // Daha sonra aldýðýnýz hataya iliþkin olarak çözüm önerinizi bir ya da iki cümle ile yazýnýz.
+    // Daha sonra aldýðýnýz hatayý yorumlayýnýz ve hataya iliþkin olarak çözüm önerinizi bir ya da iki cümle ile yazýnýz.
     // Kod üzerinde yaptýðýnýz deðiþiklikleri size verilen kaðýda iþleyiniz. 
-/   // Yazýnýzýn olabildiðince anlaþýlýr olmasýna özen gösteriniz. 
+    // Yazýnýzýn olabildiðince anlaþýlýr olmasýna özen gösteriniz. 
     // Kaðýdýnýzý görevli öðretim elemanýna teslim ediniz. 
     // Sýnav süresi 45 dakikadýr.
     public class ArrayTests
