@@ -15,7 +15,7 @@ namespace Tests
             arr.SetValue('s', 0);
             arr.SetValue('a', 1);
             arr.SetValue('m', 2);
-            arr.SetValue('u', 2);
+            arr.SetValue('u', 3);
 
             // Assert
             Assert.Collection(arr,
