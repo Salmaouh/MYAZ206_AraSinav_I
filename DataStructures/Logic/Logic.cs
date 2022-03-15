@@ -10,6 +10,7 @@ namespace DataStructures.Logic
     {
         public static string BinaryOutput(byte input)
         {
+            // Giriş uzunluğu 8 karakter olmalıdır.
             throw new NotImplementedException();
         }
     }
